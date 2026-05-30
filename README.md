@@ -24,3 +24,4 @@ OBS: As dificuldades são distribuidas de modo aleatório e espalhadas na tela.
 
 ## Links de acesso
 Jogo - [WordWall](https://wordwall.net/pt/resource/113219486)
+Tutorial em Video - [Video](https://youtu.be/DhqseVLK4AU?si=pnDzMyASdARjVogj)
