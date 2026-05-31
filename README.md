@@ -23,5 +23,6 @@ OBS: As dificuldades são distribuidas de modo aleatório e espalhadas na tela.
 - GitHub
 
 ## Links de acesso
-Jogo - [WordWall](https://wordwall.net/pt/resource/113219486)
-Tutorial em Video - [Video](https://youtu.be/DhqseVLK4AU?si=pnDzMyASdARjVogj)
+- Jogo - [WordWall](https://wordwall.net/pt/resource/113219486)
+- Tutorial em Video - [Video](https://youtu.be/DhqseVLK4AU?si=pnDzMyASdARjVogj)
+- Video do Projeto - [Video](https://www.youtube.com/watch?v=Yz3ZyqWJgr0)
